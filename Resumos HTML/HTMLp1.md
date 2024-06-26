@@ -24,7 +24,7 @@ Exemplo:
 
 | Comando | Função |
 |---------| -------|
-| <h1>, <h2>, <h3> | Título |
+| h1, h2, h3 | Título |
 | <p> | Parágrafo |
 | <br> | Pula linha|
 | <a> | Links |
