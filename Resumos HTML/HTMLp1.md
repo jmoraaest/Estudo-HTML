@@ -176,7 +176,7 @@ Sintaxe:
 | b | Negrito |
 | strong | Texto importante |
 | i | Itálico |
-| e> | Texto enfatizado |
+| em | Texto enfatizado |
 | mark | Texto marcado |
 | small | Texto pequeno |
 | del | Risca texto |
