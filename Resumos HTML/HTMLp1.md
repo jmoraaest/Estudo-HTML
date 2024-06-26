@@ -169,7 +169,7 @@ Sintaxe:
 
 ##  📏 HTML Formatting
 
-## 📚 Comandos para Formatação
+## Comandos para Formatação
 
 | Comando | Função |
 |---------|---------|
