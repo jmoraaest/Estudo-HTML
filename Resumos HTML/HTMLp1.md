@@ -170,9 +170,10 @@ Sintaxe:
 ##  📏 HTML Formatting
 
 ## 📚 Comandos para Formatação
+``` html
 | Comando | Função |
 |---------|---------|
-| <b> | Negrito |
+| b | Negrito |
 | <strong> | Texto importante |
 | <i> | Itálico |
 | <em> | Texto enfatizado |
@@ -182,5 +183,5 @@ Sintaxe:
 | <ins> | Texto grifado abaixo |
 | <sub> | Texto subscrito |
 | <sup> | Texto sobrescrito |
-
+``` 
 
