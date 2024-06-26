@@ -41,11 +41,11 @@ Exemplo:
 
 **Exemplos:**
 
--> Ex 1: Utilizando a tag <a>:
+-> Ex 1: Utilizando a tag a:
 ``` html
 <a href="https://www.w3schools.com">This is a link</a>
 ```
--> Ex 2: Utilizando a tag <img> para colocar imagens:
+-> Ex 2: Utilizando a tag img para colocar imagens:
 ``` html
 <img src="w3schools.jpg" alt="Texto alternativo" width = "104" height = "142" <img>
 <img src="imagem.jpg">
