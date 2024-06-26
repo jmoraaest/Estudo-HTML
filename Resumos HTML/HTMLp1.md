@@ -25,12 +25,12 @@ Exemplo:
 | Comando | Função |
 |---------| -------|
 | h1, h2, h3 | Título |
-| <p> | Parágrafo |
-| <br> | Pula linha|
-| <a> | Links |
-| <img> | Imagem |
-| <hr>  | Quebra de linha horizontal |
-| <pre> | Define texto pré-formado |
+| p | Parágrafo |
+| br | Pula linha|
+| a | Links |
+| img | Imagem |
+| hr  | Quebra de linha horizontal |
+| pre | Define texto pré-formado |
 | background-color | Mudar a cor do backgroud da página |
 | color | Textos coloridos |
 | font-family | Fontes nos textos |
