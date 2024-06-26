@@ -139,12 +139,12 @@ Sintaxe:
 ``` 
 
 ## 📕 Parágrafos
-* Representado pela tag: <p> 
-* Para quebra de linhas utilize: </br>
-* Para quebra de linhas horizontais utilize: <hr>
-* Para preservar linhas e quebra de linhas utilize: <pre>
+* Representado pela tag: p
+* Para quebra de linhas utilize: /br
+* Para quebra de linhas horizontais utilize: hr
+* Para preservar linhas e quebra de linhas utilize: pre
 
--> Ex 6: Definindo uma quebra de linha horizontal com a tag <hr>: 
+-> Ex 6: Definindo uma quebra de linha horizontal com a tag hr: 
 
 ``` html
     <h1> Olá mundo </h1>
@@ -155,7 +155,7 @@ Sintaxe:
     <hr>
 ``` 
 
--> Ex 7: Fazendo um poema com a tag <pre>:
+-> Ex 7: Fazendo um poema com a tag pre:
 ``` html
     <pre>
         Todos esses que aí estão
@@ -170,18 +170,18 @@ Sintaxe:
 ##  📏 HTML Formatting
 
 ## 📚 Comandos para Formatação
-``` html
+
 | Comando | Função |
 |---------|---------|
 | b | Negrito |
-| <strong> | Texto importante |
-| <i> | Itálico |
-| <em> | Texto enfatizado |
-| <mark> | Texto marcado |
-| <small> | Texto pequeno |
-| <del> | Risca texto |
-| <ins> | Texto grifado abaixo |
-| <sub> | Texto subscrito |
-| <sup> | Texto sobrescrito |
-``` 
+| strong | Texto importante |
+| i | Itálico |
+| e> | Texto enfatizado |
+| mark | Texto marcado |
+| small | Texto pequeno |
+| del | Risca texto |
+| ins | Texto grifado abaixo |
+| sub | Texto subscrito |
+| sup | Texto sobrescrito |
+
 
