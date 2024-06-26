@@ -114,7 +114,7 @@ Sintaxe:
 * Propriedade para definir as fontes de um texto: 
 * **font-family**
 
--> Ex 4.3: Mudando a fonte do texto:
+-> Ex 4.5: Mudando a fonte do texto:
 ``` html
 <h1 style="font-family: 'Courier New', Courier, monospace;">Olá1</h1>
 ```
@@ -123,7 +123,7 @@ Sintaxe:
 * Propriedade para alterar o tamanho de uma fonte:
 * **font-size**
 
--> Ex 4.4: Mudando tamanho da fonte e mudando a cor:
+-> Ex 4.6: Mudando tamanho da fonte e mudando a cor:
 ``` html
 <p style="font-size: 300%; color: black;">Defesa Civil</p>
 ``` 
@@ -132,7 +132,7 @@ Sintaxe:
 * Alinhando os elementos no centro. 
 * **text-align: center**
 
--> Ex 4.5: Alinhando texto ao centro:
+-> Ex 4.7: Alinhando texto ao centro:
 ``` html
 <h1 style="text-align: center;">Alinhando ao centro.</h1>
 ```
