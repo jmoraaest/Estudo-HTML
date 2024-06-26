@@ -101,7 +101,14 @@ Sintaxe:
     <h1 style="color: blueviolet;">Olá mundo! Esse é um título. </h1>
     <p style="color: brown;">Esse é um parágrafo.</p>   
 </body>
-``` 
+```
+### 🍄 Boder Color
+*  Propriedade para definir bordas em um elemento:
+  
+-> Ex: 4.4: Definindo bordas em um elemento:
+``` html
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+```
 
 ### 🍄 Fonts 
 * Propriedade para definir as fontes de um texto: 
