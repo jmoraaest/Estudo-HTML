@@ -89,7 +89,7 @@ Olá Júlia, Tudo bem? "O bem e o mal são relativos..."
 
 ### ⭐Funcionalidades básicas
 
-| [Lista de cores disponíveis](https://www.w3schools.com/colors/colors_names.asp)
+[Lista de cores disponíveis](https://www.w3schools.com/colors/colors_names.asp)
 
 | Comando | Função |
 | ------ | ------- |
