@@ -84,16 +84,5 @@ Olá Júlia, Tudo bem? "O bem e o mal são relativos..."
 
 ```
 
-## 🌈 HTML Colors
 
-
-### ⭐Funcionalidades básicas
-
-[Lista de cores disponíveis](https://www.w3schools.com/colors/colors_names.asp)
-
-| Comando | Função |
-| ------ | ------- |
-| color | Para mudar a cor da fonte |
-| background-color | Para mudar a cor de fundo |
-| border | Para colocar bordas coloridas |
 
