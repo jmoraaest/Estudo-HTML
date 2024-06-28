@@ -8,7 +8,7 @@ Este repositório contém um resumo dos conceitos básicos de HTML.
 |------------------|---------------------------------------|
 | Resumo Parte 1   | [HTMLp1](Resumos%20HTML/HTMLp1.md) |
 | Resumo Parte 2   | [HTMLp2](Resumos%20HTML/HTMLp2.md)  |
-| Resumo Parte 3   | [HTMLp3.md](Resumos%20HTML/HTMLp3.md) |
+| Resumo Parte 3   | [HTMLp3](Resumos%20HTML/HTMLp3.md) |
 
 ## 🌐 Links para Estudo
 
