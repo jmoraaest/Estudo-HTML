@@ -116,7 +116,7 @@ Seus valores são:
 | `<img>` dentro de `<a>` | Inserindo imagem em um link |
 | `<mailto>` | Para abrir um programa de email |
 
-# ➜ Link Colors
+# 🌈 Link Colors
 * Para mudar certos designs quando clicamos em um link podemos utilizar o CSS para estilizar. 
 
 * Aqui, um link não visitado ficará verde sem sublinhado. Um link visitado ficará rosa sem sublinhado. Um link ativo ficará amarelo e sublinhado. Além disso, ao passar o mouse sobre um link (a:hover) ele ficará vermelho e sublinhado:
