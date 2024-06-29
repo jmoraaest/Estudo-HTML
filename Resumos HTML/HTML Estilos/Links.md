@@ -1,14 +1,15 @@
-##  HTML Links - Hyperlinks
+
+# HTML Links
+
+## 🌐 HTML Links - Hyperlinks
 * São chamados de hiperlinks;
 * Você pode clicar em um documento e ir para outro;
 * Um link não precisa ser necessariamente um texto, mas uma imagem também.
 * É possível estilizar links no CSS.
 
-###  HTML Links - Syntax
+### ➜ HTML Links - Syntax
 * A tag `<a>` define um hiperlink.
-
-### Sintaxe:
-
+  
 ``` html
 <a href="url">link text</a>
 
@@ -16,7 +17,7 @@
 
 * O atributo mais importante de `<a>` é o elemento `<href>` pois indica o destino do link.
 
-###  HTML Links - The target Attribute
+### ➜ HTML Links - The target Attribute
 * Por padrão, a página vinculada será exibida na janela atual do navegador. Para alterar isso, você deve especificar outro destino para o link;
 
 * O atributo `<target>` especifica onde abrir o documento vinculado.
@@ -29,18 +30,18 @@ Seus valores são:
     4. _top  - Abre o documento em todo corpo da janela.
 ```
 
-Exemplo:
+**📌 Exemplo**
 
 ``` html
 <a href="https://www.netflix.com/br/title/80234304" target="_blank">O gambito da rainha< a>
 
 ```
 
-## Absolute URLs vs. Relative URLs
+## ➜ Absolute URLs vs. Relative URLs
 * Ambos os exemplos acima usam Absolute URL (um endereço da web completo) no atributo href.
 *  Um link local (um link para uma página dentro do mesmo site) é especificado com um Relative URL (sem a parte “https://www”):
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <body>
@@ -58,10 +59,10 @@ Exemplo:
 
 ```
 
-##  HTML Links - Use an Image as a Link
+## ➜ HTML Links - Use an Image as a Link
 * Utilize a tag `<img>`.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <h1>Image as a Link</h1>
@@ -70,20 +71,20 @@ Exemplo:
 
 ```
 
-##  Link to an Email Address
+## ➜ Link to an Email Address
  Utilize `<mailto>` dentro do atributo `<href>` para abrir um programa de email para o usuário.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
  <a href="mailto:jujumoraes123654@gmail.com">Send Email</a>
 
 ``` 
 
-##  Button as a Link
+## ➜ Button as a Link
 * Para usar um botão HTML como link, você deve adicionar algum código JavaScript.
 
-**Exemplo**
+**📌 Exemplo**
 ``` html
 <body>
     <button id = "botaoclick" onclick="document.location='e4.html'">HTML tutorial</button>
@@ -95,10 +96,10 @@ Exemplo:
 
 ```
 
-## Link Titles
+## ➜ Link Titles
 * Especifica informações extras sobre um elemento.
 
-**Exemplos**
+**📌 Exemplos**
 
 ``` html 
 <a href="https://www.w3schools.com/html/default.asp">HTML tutorial</a>
@@ -115,7 +116,7 @@ Exemplo:
 | `<img>` dentro de `<a>` | Inserindo imagem em um link |
 | `<mailto>` | Para abrir um programa de email |
 
-# Link Colors
+# ➜ Link Colors
 * Para mudar certos designs quando clicamos em um link podemos utilizar o CSS para estilizar. 
 
 * Aqui, um link não visitado ficará verde sem sublinhado. Um link visitado ficará rosa sem sublinhado. Um link ativo ficará amarelo e sublinhado. Além disso, ao passar o mouse sobre um link (a:hover) ele ficará vermelho e sublinhado:
@@ -145,7 +146,7 @@ Exemplo:
     </style>
 
 ```
-##  Link Buttons
+##  ➜ Link Buttons
 Estilizando botões com CSS:
 
 ``` html
