@@ -1,6 +1,5 @@
-## 📘 Resumo HTML
-
-Este repositório contém um resumo dos conceitos básicos de HTML. 
+## Resumos HTML
+Esse repositório contém um resumo dos principais tópicos de HTML.
 
 ## 📁 Índice
 
