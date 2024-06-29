@@ -10,7 +10,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Principais Comandos](https://github.com/jmoraaest/Estudo-HTML/blob/533cdda1e40a21616444b4a3fcdbe181cf682306/Resumos%20HTML/HTML%20-%20Elementos%20B%C3%A1sicos/Principais%20Comandos.md.md)
   
 ### Estilos
-- [Introdução aos estilos CSS]() 
+- [Introdução aos estilos CSS](https://github.com/jmoraaest/Estudo-HTML/blob/7ddeecfecfdc5069bce0ce598a34f6f1b3bdb178/Resumos%20HTML/HTML%20Estilos/Introdu%C3%A7%C3%A3o%20aos%20estilos%20CSS.md) 
 - [Elementos de Cotação e Citação](https://github.com/jmoraaest/Estudo-HTML/blob/834032ed4ab74d1ad93fd3a17c6f64bea396c542/Resumos%20HTML/HTML%20Estilos/Elementos%20de%20Cota%C3%A7%C3%A3o%20e%20Cita%C3%A7%C3%A3o.md)
 - [Links]()
 
