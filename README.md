@@ -1,15 +1,21 @@
-## Resumos HTML
+# Resumos HTML
 Esse repositório contém um resumo dos principais tópicos de HTML.
 
-## 📁 Índice
+## 📚 Sumário
 
-| Seção            | Link                                  |
-|------------------|---------------------------------------|
-| Resumo Parte 1   | [HTMLp1](Resumos%20HTML/HTMLp1.md) |
-| Resumo Parte 2   | [HTMLp2](Resumos%20HTML/HTMLp2.md)  |
-| Resumo Parte 3   | [HTMLp3](Resumos%20HTML/HTMLp3.md) |
+### Introdução
+- [Introdução](Resumos%20HTML/HTMLp1.md)
+  
+### Elementos Básicos
+- [Principais Comandos](Resumos%20HTML/HTMLp2.md)
+  
+### Estilos
+- [Introdução aos estilos CSS]() 
+- [Elementos de Cotação e Citação]()
+- [Links]()
 
-## 🌐 Links para Estudo
+
+## 📌 Links para Estudo
 
 | Recurso | Link |
 |------|------|
