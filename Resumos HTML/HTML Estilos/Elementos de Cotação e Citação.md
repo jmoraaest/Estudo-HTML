@@ -1,11 +1,10 @@
 
-
 ##  Elementos de Cotação e Citação 
 
-### HTML blockquote for Quotations
+### ➜ HTML `<blockquote>` for Quotations
 * O elemento `blockquote ` define uma seção citada de outra fonte. Ele também indenta o texto citado.
 
-### **Exemplo 1**
+### 📌 **Exemplo 1**
 
 **Resultado na página:**
 
@@ -35,10 +34,10 @@ Isto é uma citação do website:
 </body>
 
 ```
-### q for Short Quotations
+### ➜ `<q>` for Short Quotations
 * Este é usado para citações curtas, onde os navegadores geralmente colocam aspas automaticamente.
 
-### **Exemplo 2**
+### 📌 **Exemplo 2**
 
 **Resultado na página:**
 ``` html
@@ -52,28 +51,28 @@ Olá Júlia, Tudo bem? "O bem e o mal são relativos..."
 
 ``` 
 
-### abbr for Abbreviations
+### ➜ `<abbr>` for Abbreviations
 * Utilizamos abbr para abreviações.
 
-### **Exemplo 3**
+### 📌 **Exemplo 3**
 
  **Código:**
 ``` html
 <p> Abc...<abbr title="World Health Organization">Who</abbr>was founded in 1948.</p>
 
 ```
-### Comentários
+### 💭 Comentários
 
 Para criar comentários em HTML:
 
-- **Comentários curtos:**
+- **➜ Comentários curtos:**
     
     ```html
     <!-- Write your comments here -->
 
     ```
     
-- **Comentários longos:**
+- **➜ Comentários longos:**
     
     ```html
     <!--
@@ -83,7 +82,7 @@ Para criar comentários em HTML:
     
     ```
 
-## Sintetizando os comandos utilizados
+## 📚 Sintetizando os comandos utilizados
 
 | Comando | Função |
 |---------|--------|
