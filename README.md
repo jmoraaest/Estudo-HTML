@@ -7,7 +7,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Introdução](Resumos%20HTML/HTMLp1.md)
   
 ### Elementos Básicos
-- [Principais Comandos](Resumos%20HTML/HTMLp2.md)
+- [Principais Comandos](Resumos HTML/HTML - Elementos Básicos/Principais Comandos.md.md)
   
 ### Estilos
 - [Introdução aos estilos CSS]() 
