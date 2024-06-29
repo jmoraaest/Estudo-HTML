@@ -1,6 +1,6 @@
-# 📑 Comandos Básicos HTML
+# 💻 Comandos Básicos HTML
 
-## Principais Comandos HTML
+## ➜ Principais Comandos HTML
 
 | Comando           | Função                      |
 |-------------------|-----------------------------|
@@ -12,7 +12,7 @@
 | `hr`              | Linha horizontal            |
 | `pre`             | Texto pré-formatado         |
 
-### Exemplos
+### 📌 Exemplos
 
 - **Títulos (h1, h2, h3, ...)**: Usados para definir cabeçalhos de diferentes níveis. O `h1` é o título principal e `h6` é o menos importante.
   
@@ -70,7 +70,7 @@
 </pre>
 
 ```
-## Comandos para Formatação
+## 📚 Comandos para Formatação
 
 | Comando | Função |
 | --- | --- |
@@ -88,8 +88,8 @@
 ## 🔎 Estrutura HTML
 ![a](https://pensandonaweb.com.br/content/images/2014/Aug/html-hierarchy.png)
 
-1. **<!DOCTYPE html>**: Declara o tipo do documento, indicando que é um documento HTML5.
-2. **<html>**: A tag raiz que envolve todo o conteúdo da página.
-3. **<head>**: Contém metadados sobre o documento, como o título e links para folhas de estilo.
-4. **<title>**: Define o título da página, que aparece na aba do navegador.
-5. **<body>**: Contém todo o conteúdo visível da página, como textos, imagens e links.
+1. **`<!DOCTYPE html>`**: Declara o tipo do documento, indicando que é um documento HTML5.
+2. **`<html>`**: A tag raiz que envolve todo o conteúdo da página.
+3. **`<head>`**: Contém metadados sobre o documento, como o título e links para folhas de estilo.
+4. **`<title>`**: Define o título da página, que aparece na aba do navegador.
+5. **`<body>`**: Contém todo o conteúdo visível da página, como textos, imagens e links.
