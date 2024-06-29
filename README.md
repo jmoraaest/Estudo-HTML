@@ -4,7 +4,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 ## 📚 Sumário
 
 ### Introdução
-- [Introdução](Resumos%20HTML/HTMLp1.md)
+- [Introdução](https://github.com/jmoraaest/Estudo-HTML/blob/533cdda1e40a21616444b4a3fcdbe181cf682306/Resumos%20HTML/HTML%20-%20Elementos%20B%C3%A1sicos/Principais%20Comandos.md.md)
   
 ### Elementos Básicos
 - [Principais Comandos]()
