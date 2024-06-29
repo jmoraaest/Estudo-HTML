@@ -2,19 +2,17 @@
 ##  Introdução aos Estilos HTML - CSS
 
 ## 💭 O que é CSS?
+* CSS (Cascading Style Sheets) é utilizado para estilizar páginas web, permitindo alterar cores, tamanhos, planos de fundo e muito mais.
 
-CSS (Cascading Style Sheets) é utilizado para estilizar páginas web, permitindo alterar cores, tamanhos, planos de fundo e muito mais.
-
-Podemos adicionar CSS de três maneiras:
+💡 Podemos adicionar CSS de três maneiras:
 1. **Inline**: Usando o atributo `<style>` dentro de um elemento HTML.
 2. **Internal**: Usando um elemento `<style>` na seção `<head>`.
 3. **External**: Usando um elemento `<link>` para vincular a um arquivo CSS externo.
 
-##  Estilos Inline
-
+##  ➜ Estilos Inline
 Os estilos inline são aplicados diretamente aos elementos HTML usando o atributo `style`.
 
-### Exemplo Completo de Estilo Inline
+### 📌 Exemplo Completo de Estilo Inline
 
 ```html
 <!DOCTYPE html>
@@ -34,12 +32,10 @@ Os estilos inline são aplicados diretamente aos elementos HTML usando o atribut
 </html>
 
 ```
-## Internal CSS
-
+## ➜ Internal CSS
 Define o estilo de TODOS os elementos em uma página específica.
-Exemplo:
 
-### Exemplo Completo de Estilo Internal
+### 📌 Exemplo Completo de Estilo Internal
 ```html
 
 <!DOCTYPE html>
@@ -67,11 +63,10 @@ Exemplo:
 </html>
 
 ```
-## External CSS
-
+## ➜ External CSS
 É utilizado para definir o estilo de múltiplas páginas, criando um link para um arquivo CSS externo.
 
-### Exemplo Completo de Estilo External
+### 📌 Exemplo Completo de Estilo External
 **HTML Exemplo:**
 
 ```html
@@ -106,25 +101,23 @@ p {
 
 ```
 
-##  Propriedades Comuns de Estilo
+## 🎨 Propriedades Comuns de Estilo
 
-### Cor da Fonte (`color`)
-
+### ➜ Cor da Fonte (`color`)
 A propriedade `color` é usada para definir a cor do texto.
 [Lista de cores disponíveis](https://www.w3schools.com/colors/colors_names.asp)
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <p style="color:blue;">Este texto é azul.</p>
 
 ```
 
-### Cor de Fundo (`background-color`)
-
+### ➜ Cor de Fundo (`background-color`)
 A propriedade `background-color` é usada para definir a cor de fundo de um elemento.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <div style="background-color:yellow;">
@@ -133,53 +126,48 @@ A propriedade `background-color` é usada para definir a cor de fundo de um elem
 
 ```
 
-### Bordas (`border`)
-
+### ➜ Bordas (`border`)
 A propriedade `border` é usada para definir bordas ao redor de um elemento.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <p style="border:2px solid black;">Este parágrafo tem uma borda preta.</p>
 
 ```
 
-##  Estilos de Texto
+## ✏️ Estilos de Texto
 
-### Fonte (`font-family`)
-
+### ➜ Fonte (`font-family`)
 A propriedade `font-family` define a família da fonte para o texto.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <p style="font-family:Arial, sans-serif;">Este texto usa a fonte Arial.</p>
 
 ```
 
-### Tamanho da Fonte (`font-size`)
-
+### ➜ Tamanho da Fonte (`font-size`)
 A propriedade `font-size` define o tamanho do texto.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <p style="font-size:20px;">Este texto tem 20 pixels de altura.</p>
 
 ```
-
-### Alinhamento de Texto (`text-align`)
-
+### ➜ Alinhamento de Texto (`text-align`)
 A propriedade `text-align` é usada para definir o alinhamento horizontal do texto.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```html
 <h1 style="text-align:center;">Este texto está centralizado.</h1>
 
 ```
 
-## Exemplo Completo de Estilos
+## 📌 Exemplo Completo de Estilos
 
 ```html
 <!DOCTYPE html>
@@ -211,11 +199,10 @@ A propriedade `text-align` é usada para definir o alinhamento horizontal do tex
 
 ```
 
-## CSS Border
-
+## ➜ CSS Border
 Define uma borda em volta de um elemento HTML.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```css
 p {
@@ -224,11 +211,11 @@ p {
 
 ```
 
-## CSS Padding
+## ➜ CSS Padding
 
 Define um espaço/preenchimento entre o texto e a borda.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```css
 p {
@@ -238,11 +225,11 @@ p {
 
 ```
 
-## CSS Margin
+## ➜ CSS Margin
 
 Define uma margem (espaço) fora da borda.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ```css
 p {
@@ -252,10 +239,10 @@ p {
 
 ```
 
-## Link to External CSS
+## ➜ Link to External CSS
 * Páginas de estilo externas podem ser referenciadas com um URL completo ou com um caminho relativo à página da web atual.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
@@ -264,7 +251,7 @@ p {
 
 * Páginas de estilo podem estar em pastas distintas.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <link rel="stylesheet" href="/pasta a/a.css">
@@ -273,14 +260,14 @@ p {
 
 * Pode estar localizada na pasta atual.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <link rel="stylesheet" href="style.css">
 
 ```
 
-## Sintetizando os comandos utilizados
+## 📚 Sintetizando os comandos utilizados
 
 | Comando | Função |
 | --------| -------|
