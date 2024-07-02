@@ -8,10 +8,10 @@
 | `<tr>` | Define uma linha|
 | `<th>` | Cabeçalho |
 
-## Define an HTML Table
+## ➜ Define an HTML Table
 * Uma tabela em HTML consiste em células de tabela dentro de linhas e colunas.
 
-**Exemplo de tabela simples**
+**📌 Exemplo de tabela simples**
 
 ``` html
 <table>
@@ -39,11 +39,11 @@
     
 ```
 
-## Table Cells
+## ➜ Table Cells
 * Cada célula da tabela é definida por uma tag `<td>`;
 * Tudo entre <td> e </td> é o conteúdo da célula da tabela.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <body>
@@ -58,11 +58,11 @@
 
 ```
 
-## Table Rows (Row - Linha)
+## ➜ Table Rows (Row - Linha)
 * Cada linha da tabela começa e termina com uma tag `<tr>`;
 * Significa linha da tabela (`<tr>`).
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <body>
@@ -87,10 +87,10 @@
 
 ```
 
-## Table Headers
+## ➜ Table Headers
 * Quando você precisar que certas células sejam de cabeçalho, utilize `<th>`.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <tr>
