@@ -29,7 +29,7 @@
 * É possível utilizar o `<style>` para especificar altura e largura de uma imagem. (Width - Altura, Height - Largura)
 
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <img src="img/planeta-terra.webp" alt="Planeta Terra" style="width:440px; height: 300px;">
@@ -39,7 +39,7 @@
 ## ➜ Width and Height, or Style?
 * Os atributos de altura e largura são válidos no HTML. No entanto, sugerimos usar o atributo `<style> `. 
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <style>
@@ -64,7 +64,7 @@
 ## ➜ Images on Another Server/Website
 * Para apontar para uma imagem em outro servidor, você deve especificar uma URL absoluta (completa) no atributo src:
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <img src="https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg" alt="banana">
@@ -75,7 +75,7 @@
 ## ➜ Animated Images
 * Podemos utilizar GIFS!
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <img src="img/deadpool-04.gif" alt="deadpoll" style="width: 300px; height: 300px;">
@@ -85,7 +85,7 @@
 ## ➜ Image as a Link
 * Use uma imagem como link, coloque a tag `<img>` dentro da tag `<a>`.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <a href="https://freemind.com.br/blog/dicas-de-prevencao-as-drogas/">
@@ -97,7 +97,7 @@
 ## ➜ Image Floating
 * Use a propriedade CSS float para deixar a imagem flutuar para a direita ou para a esquerda:
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <p> <img src="img/sorriso.png" alt="sorriso" style="float:right;height:102px; width: 120px;"></p>
@@ -129,7 +129,7 @@
 * A imagem deve ser inserida utilizando a tag `<img>`, entretanto, para se diferenciar das outras,  o atributo `<usemap>` deverá ser utilizado;
 * O valor `<usemap>` começa com **#** seguida pelo nome do mapa da imagem.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <img src="/Html/img/laptop-3047422_1280.jpg" alt="fotolaptop" usemap="#workmap">
@@ -141,7 +141,7 @@
 * O elemento `<map>` é usado para criar um mapa de imagem e está vinculado à imagem usando o atributo `name`;
 * O atributo `name` deve ter o mesmo valor do atributo `<usemap>`.
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <map name="workmap"> </map>
@@ -161,7 +161,7 @@ Você pode utilizar os seguintes valores:
 **poly** - Região poligonal
 **default** - Toda região
 
-**Exemplo:**
+**📌 Exemplo:**
 
 ``` html
 <area shape="rect" coords="436,377,1179,718" alt="" href="computador.html">
@@ -171,7 +171,7 @@ Você pode utilizar os seguintes valores:
 ## ➜ Image Map and JavaScript
 * Adicionando o evento click na área.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <body>
@@ -197,7 +197,7 @@ function clickcomp(){
 ## ➜ Background Image on a HTML element (`<background-image>`)
 * Para mudarmos o plano de fundo utilizando imagens, usamos o atributo `<background-image>`
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
    <p style="background-image: url(img/planeta-terra.webp);">
@@ -212,7 +212,7 @@ function clickcomp(){
 
 * Podemos utilizar isso no `<style>`:
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <style>
@@ -225,7 +225,7 @@ function clickcomp(){
 ## ➜ Background Image on a Page
 * Se você deseja que a página inteira tenha uma imagem de fundo, você deve especificar a imagem de fundo no elemento `<body>`:
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
   body{
@@ -238,7 +238,7 @@ function clickcomp(){
 * Se a imagem de fundo for menor que o elemento, a imagem se repetirá até chegar ao fim do elemento. 
 * Para evitar que a imagem de fundo se repita, defina a propriedade `background-repeat` como `no-repeat`.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
  body{
@@ -252,7 +252,7 @@ function clickcomp(){
 * Caso queira que a imagem de fundo cubra todo o elemento, você pode definir a propriedade `<background-size>` como `cover`.
 * Para garantir que todo elemento esteja coberto defina a propriedade `background-attachment` como fixa.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` htmk
 <style>
@@ -269,7 +269,7 @@ function clickcomp(){
 ## ➜ Background Stretch
 * Se você quiser que a imagem de fundo se estique para caber em um elemento todo, você pode definir a propriedade `<background-size>` como 100% 100%.
 
-**Exemplo**
+**📌 Exemplo**
 
 ``` html
 <style>
