@@ -1,6 +1,6 @@
-# HTML Images
+# 🖼️ HTML Images 
 
-* Para colocarmos imagens, usamos o seguinte comando:
+💡 Para adicionar imagens
 
 ``` html
 <body>
@@ -8,38 +8,38 @@
 </body>
 
 ```
-## HTML Images Syntax
+## ➜ HTML Images Syntax
 
 * `<img>` - Utilizado para incorporar uma imagem em uma página web;
 
 * A tag `<img>`cria um espaço de retenção para uma imagem referenciada.
 
 * Assim, temos dois atributos importantes:
-    * scr - Especifica o caminho para imagem;
-    * alt - Texto alternativo para imagem.
+    * **scr** - Especifica o caminho para imagem;
+    * **alt** - Texto alternativo para imagem.
 
-Sytax: 
+💡 Sytax: 
 
 ``` html
 <img src="url" alt="alternatetext">
 
 ```
 
-## Image Size - Width and Height
+## ➜ Image Size - Width and Height
 * É possível utilizar o `<style>` para especificar altura e largura de uma imagem. (Width - Altura, Height - Largura)
 
 
-Observe o exemplo:
+**Exemplo**
 
 ``` html
 <img src="img/planeta-terra.webp" alt="Planeta Terra" style="width:440px; height: 300px;">
 
 ```
 
-## Width and Height, or Style?
+## ➜ Width and Height, or Style?
 * Os atributos de altura e largura são válidos no HTML. No entanto, sugerimos usar o atributo `<style> `. 
 
-Observe o exemplo:
+**Exemplo**
 
 ``` html
 <style>
@@ -61,31 +61,31 @@ Observe o exemplo:
 
 ```
 
-## Images on Another Server/Website
+## ➜ Images on Another Server/Website
 * Para apontar para uma imagem em outro servidor, você deve especificar uma URL absoluta (completa) no atributo src:
 
-Observe o exemplo: 
+**Exemplo**
 
 ``` html
 <img src="https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg" alt="banana">
 
 ```
-**Cuidado com o copyright!** 
+**⚠️ Cuidado com o copyright!** 
 
-## Animated Images
+## ➜ Animated Images
 * Podemos utilizar GIFS!
 
-Observe o exemplo:
+**Exemplo**
 
 ``` html
 <img src="img/deadpool-04.gif" alt="deadpoll" style="width: 300px; height: 300px;">
 
 ```
 
-## Image as a Link
-* use uma imagem como link, coloque a tag `<img>` dentro da tag `<a>`.
+## ➜ Image as a Link
+* Use uma imagem como link, coloque a tag `<img>` dentro da tag `<a>`.
 
-Observe o exemplo:
+**Exemplo**
 
 ``` html
 <a href="https://freemind.com.br/blog/dicas-de-prevencao-as-drogas/">
@@ -94,10 +94,10 @@ Observe o exemplo:
 
 ```
 
-## Image Floating
-* Use a propriedade CSS float para deixar a imagem flutuar para a direita ou para a esquerda de um texto:
+## ➜ Image Floating
+* Use a propriedade CSS float para deixar a imagem flutuar para a direita ou para a esquerda:
 
-Observe o exemplo:
+**Exemplo**
 
 ``` html
 <p> <img src="img/sorriso.png" alt="sorriso" style="float:right;height:102px; width: 120px;"></p>
@@ -115,7 +115,7 @@ Observe o exemplo:
 | float | Para flutuar para a esquerda ou para a direita |
 
 
-# HTML Image Maps
+# 🌐 HTML Image Maps 
 
 * Com mapas de imagens HTML, você pode criar áreas clicáveis ​​em uma imagem.
 
@@ -125,9 +125,7 @@ Observe o exemplo:
 * Mapas de imagem são imagens com áreas clicáveis;
 * Para criar áreas `<area>`.
 
-{FAZER EXEMPLO DO COMPUTADOR}
-
-### The Image (`<usemap>`)
+### ✔️ The Image (`<usemap>`)
 * A imagem deve ser inserida utilizando a tag `<img>`, entretanto, para se diferenciar das outras,  o atributo `<usemap>` deverá ser utilizado;
 * O valor `<usemap>` começa com **#** seguida pelo nome do mapa da imagem.
 
@@ -138,7 +136,7 @@ Observe o exemplo:
 
 ```
 
-### Create Image Map (`<map>`)
+### ✔️ Create Image Map (`<map>`)
 
 * O elemento `<map>` é usado para criar um mapa de imagem e está vinculado à imagem usando o atributo `name`;
 * O atributo `name` deve ter o mesmo valor do atributo `<usemap>`.
@@ -150,18 +148,18 @@ Observe o exemplo:
 
 ```
 
-### The Areas
+### ✔️ The Areas
 * Uma área clicável é definida usando um elemento `<area>`.
 * Site para demarcar coordenadas: [Free Online Image Map Generator](https://www.image-map.net)
 * Em caso de dúvida, utilize esse site para consulta: [HTML Image Maps](https://www.w3schools.com/html/html_images_imagemap.asp)
 
-#### Shape
+#### ✔️ Shape
 
 Você pode utilizar os seguintes valores:
-rect - Região retângular
-circle - Região circular
-poly - Região poligonal
-default - Toda região
+**rect** - Região retângular
+**circle** - Região circular
+**poly** - Região poligonal
+**default** - Toda região
 
 **Exemplo:**
 
@@ -170,7 +168,7 @@ default - Toda região
 
 ```
 
-## Image Map and JavaScript
+## ➜ Image Map and JavaScript
 * Adicionando o evento click na área.
 
 **Exemplo**
@@ -194,9 +192,9 @@ function clickcomp(){
 
 ```
 
-# HTML Background Images
+# ☁️ HTML Background Images
 
-## Background Image on a HTML element (`<background-image>`)
+## ➜ Background Image on a HTML element (`<background-image>`)
 * Para mudarmos o plano de fundo utilizando imagens, usamos o atributo `<background-image>`
 
 **Exemplo**
@@ -224,7 +222,7 @@ function clickcomp(){
     </style>
 ```
 
-## Background Image on a Page
+## ➜ Background Image on a Page
 * Se você deseja que a página inteira tenha uma imagem de fundo, você deve especificar a imagem de fundo no elemento `<body>`:
 
 **Exemplo**
@@ -236,7 +234,7 @@ function clickcomp(){
 
 ```
 
-## Background Repeat
+## ➜ Background Repeat
 * Se a imagem de fundo for menor que o elemento, a imagem se repetirá até chegar ao fim do elemento. 
 * Para evitar que a imagem de fundo se repita, defina a propriedade `background-repeat` como `no-repeat`.
 
@@ -250,7 +248,7 @@ function clickcomp(){
 
 ```
 
-## Background Cover
+## ➜ Background Cover
 * Caso queira que a imagem de fundo cubra todo o elemento, você pode definir a propriedade `<background-size>` como `cover`.
 * Para garantir que todo elemento esteja coberto defina a propriedade `background-attachment` como fixa.
 
@@ -268,7 +266,7 @@ function clickcomp(){
 
 ```
 
-## Background Stretch
+## ➜ Background Stretch
 * Se você quiser que a imagem de fundo se estique para caber em um elemento todo, você pode definir a propriedade `<background-size>` como 100% 100%.
 
 **Exemplo**
