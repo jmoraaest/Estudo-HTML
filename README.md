@@ -17,7 +17,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Favicon](https://github.com/jmoraaest/Estudo-HTML/blob/21c814657ae25b202b16f1a98d8dedc27f8e2c79/Resumos%20HTML/HTML%20Estilos/Favicon.md)
 
 ### Tabelas
-
+- [Introdução as Tabelas](https://github.com/jmoraaest/Estudo-HTML/blob/9e2f5035dcf8b0b80f5f3480daebf78987c28ede/Resumos%20HTML/HTML%20-%20Tabelas/Introdu%C3%A7%C3%A3o%20as%20Tabelas.md)
 
 ## 📌 Links para Estudo
 
