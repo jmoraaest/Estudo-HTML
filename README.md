@@ -14,6 +14,9 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Elementos de Cotação e Citação](https://github.com/jmoraaest/Estudo-HTML/blob/834032ed4ab74d1ad93fd3a17c6f64bea396c542/Resumos%20HTML/HTML%20Estilos/Elementos%20de%20Cota%C3%A7%C3%A3o%20e%20Cita%C3%A7%C3%A3o.md)
 - [Links](https://github.com/jmoraaest/Estudo-HTML/blob/cefb2e823d982200a51dcd9509b689bf256a8ca1/Resumos%20HTML/HTML%20Estilos/Links.md)
 - [Imagens](https://github.com/jmoraaest/Estudo-HTML/blob/ff448a864f722639db14d786211e17436ec8b502/Resumos%20HTML/HTML%20Estilos/Imagens.md)
+- [Favicon](https://github.com/jmoraaest/Estudo-HTML/blob/21c814657ae25b202b16f1a98d8dedc27f8e2c79/Resumos%20HTML/HTML%20Estilos/Favicon.md)
+
+### Tabelas
 
 
 ## 📌 Links para Estudo
