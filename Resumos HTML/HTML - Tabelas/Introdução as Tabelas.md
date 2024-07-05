@@ -1,102 +1,41 @@
 
 # HTML Tables
 
-| Comando | Função | 
-|---------|--------|
-| `<table>` | Define a tabela|
-| `<td>`| Define uma célula |
-| `<tr>` | Define uma linha|
-| `<th>` | Cabeçalho |
+Uma tabela em HTML é uma estrutura fundamental para organizar dados em linhas e colunas.
 
-## ➜ Define an HTML Table
-* Uma tabela em HTML consiste em células de tabela dentro de linhas e colunas.
+## Comandos de Tabelas em HTML
 
-**📌 Exemplo de tabela simples**
+| Comando    | Descrição                               | Exemplo                                      |
+|------------|-----------------------------------------|----------------------------------------------|
+| `<table>`  | Define o início e o fim da tabela       | `<table> ... </table>`                       |
+| `<tr>`     | Define uma linha na tabela              | `<tr> ... </tr>`                             |
+| `<td>`     | Define uma célula (dados) na tabela     | `<td> ... </td>`                             |
+| `<th>`     | Define uma célula de cabeçalho na tabela| `<th> ... </th>`  
 
-``` html
+## Exemplo de Tabela Simples em HTML
+
+```html
 <table>
-        <tr>
-            <th>Nome</th>
-            <th>Idade</th>
-            <th>Sexo</th>
-        </tr>
-        <tr>
-            <td>Ana</td>
-            <td>12</td>
-            <td>F</td>
-        </tr>
-        <tr>
-            <td>Carlos</td>
-            <td>20</td>
-            <td>M</td>
-        <tr>
-            <td>Clara</td>
-            <td>15</td>
-            <td>F</td>
-        </tr>
-        </tr>
-    </table>
-    
-```
-
-## ➜ Table Cells
-* Cada célula da tabela é definida por uma tag `<td>`;
-* Tudo entre <td> e </td> é o conteúdo da célula da tabela.
-
-**📌 Exemplo**
-
-``` html
-<body>
-    <table>
-        <tr>
-            <td>Nome</td>
-            <td>Idade</td>
-            <td>Sexo</td>
-        </tr>
-    </table>
-</body>
-
-```
-
-## ➜ Table Rows (Row - Linha)
-* Cada linha da tabela começa e termina com uma tag `<tr>`;
-* Significa linha da tabela (`<tr>`).
-
-**📌 Exemplo**
-
-``` html
-<body>
-    <table>
-        <tr>
-            <td>Clara</td>
-            <td>Ana</td>
-            <td>Pedro</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>18</td>
-            <td>20</td>
-        </tr>
-        <tr>
-            <td>F</td>
-            <td>F</td>
-            <td>M</td>
-        </tr>
-    </table>
-</body>
-
-```
-
-## ➜ Table Headers
-* Quando você precisar que certas células sejam de cabeçalho, utilize `<th>`.
-
-**📌 Exemplo**
-
-``` html
-<tr>
-            <th>Pessoa 1</th>
-            <th>Pessoa 2</th>
-            <th>Pessoa 3</th>
-        </tr>
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Sexo</th>
+    </tr>
+    <tr>
+        <td>Ana</td>
+        <td>12</td>
+        <td>F</td>
+    </tr>
+    <tr>
+        <td>Carlos</td>
+        <td>20</td>
+        <td>M</td>
+    </tr>
+    <tr>
+        <td>Clara</td>
+        <td>15</td>
+        <td>F</td>
+    </tr>
+</table>
 
 ```
