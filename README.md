@@ -29,6 +29,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 | Recurso | Link |
 |------|------|
 | Documentação MDN |[MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)|
-| W3Schools | [W3Schools HTML](https://www.w3schools.com/html/)
+| W3Schools | [W3Schools HTML](https://www.w3schools.com/html/) |
+| readme.so | (https://readme.so/pt) |
 
 
