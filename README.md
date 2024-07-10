@@ -21,6 +21,9 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Formatação](https://github.com/jmoraaest/Estudo-HTML/blob/bb21bf2ef388f3f25ce471daa8c042ed56c1333b/Resumos%20HTML/HTML%20-%20Tabelas/Formata%C3%A7%C3%A3o%20das%20Tabelas.md)
 - [Estilizando Tabelas](https://github.com/jmoraaest/Estudo-HTML/blob/5484382599fc94a1cdb45dc375055b34fc62741e/Resumos%20HTML/HTML%20-%20Tabelas/Estilizando%20Tabelas.md)
 
+  ### Listas
+  - [Listas](https://github.com/jmoraaest/Estudo-HTML/blob/6df67f1268ff4027df84d278d5003d7a97d6dc43/Resumos%20HTML/HTML%20-%20Listas/Listas.md)
+
 ## 📌 Links para Estudo
 
 | Recurso | Link |
