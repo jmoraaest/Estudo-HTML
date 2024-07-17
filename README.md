@@ -25,7 +25,7 @@ Esse repositório contém um resumo dos principais tópicos de HTML.
 - [Listas](https://github.com/jmoraaest/Estudo-HTML/blob/6df67f1268ff4027df84d278d5003d7a97d6dc43/Resumos%20HTML/HTML%20-%20Listas/Listas.md)
 
 ### Conceitos Importantes
-- [Conceitos]()
+- [Conceitos](https://github.com/jmoraaest/Estudo-HTML/blob/6fe37378cb33ada1bc1af48837c559c37458e903/Resumos%20HTML/HTML%20-%20Conceitos%20Importantes/Conceitos.md)
 
 ## 📌 Links para Estudo
 
